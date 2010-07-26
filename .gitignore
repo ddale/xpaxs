@@ -1,0 +1,4 @@
+*.pyc
+xpaxs.egg-info
+build
+dist

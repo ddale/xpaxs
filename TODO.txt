@@ -1,0 +1,19 @@
+
+  * Update existing models to improve abstractions, use ReST docstrings,
+    and use quantities
+
+  * set up sphinx documentation
+
+  * unit tests
+
+  * support the epdl97 libraries, available at http://www-nds.iaea.org/epdl97
+
+  * improve elam object reprs
+
+  * implement fluorescence calculations
+
+  * improve public AtomicData repr
+
+  * improve henke AtomicData repr
+
+  * improve waasmaier AtomicData repr

@@ -1,0 +1,3 @@
+include xpaxs/atomic_data/*.zip
+include xpaxs/atomic_data/*.tar.gz
+include xpaxs/atomic_data/*.h5
